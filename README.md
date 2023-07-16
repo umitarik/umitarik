@@ -1,6 +1,6 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=umitarik&color=blueviolet)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/umit.ark)
-[![MasterHead](https://www.platinonline.com/teknoloji/18-yasindan-buyuk-herkes-ucretsiz-egitimle-15-ayda-yazilimci-olabiliyor-1082701))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ümit arık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ümit arık" height="30" width="40" /></a>
