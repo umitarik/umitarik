@@ -1,6 +1,35 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=umitarik&color=blueviolet)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/umit.ark)
 
+```yaml
+name: ÜMİT ARIK
+located_in: GEBZE, KOCAELİ
+current_job: Software DevelopeR
+education:
+  [
+    "Bachelor's in Management Information Systems in Anadolu University",
+    "Erasmus+ Program in Information Technologies in Higher School of Transport "Todor Kableshkov" Sofia, Bulgaria"
+    "Associate's in Computer Programming in Kocaeli University",
+  ]
+certificates:
+  [
+    "Turkcell Geleceği Yazanlar - Web Programming 101",
+    "Turkcell Geleceği Yazanlar - Web Programming 201",
+    "Turkcell Geleceği Yazanlar - Web Programming 301",
+    "Turkcell Geleceği Yazanlar - Web Programming 302",
+    "Turkcell Geleceği Yazanlar - Web Programming 401",
+    "Turkcell Geleceği Yazanlar - Web Programming 402",
+  ]
+interests:
+  [
+    "Web Development",
+    "Mobile Development",
+    "Bot Development",
+    "Server Systems",
+    "Cyber Security",
+    "UI/UX",
+  ]
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ümit arık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ümit arık" height="30" width="40" /></a>
