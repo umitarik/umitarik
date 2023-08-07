@@ -1,5 +1,4 @@
-![Github Badge](https://komarev.com/ghpvc/?username=umitarik&color=blueviolet)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/umit.ark)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
